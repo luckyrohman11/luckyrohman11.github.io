@@ -3,7 +3,7 @@
 title: Lucky Nurrohman Firdaus
 
 # Name pronunciation (optional)
-name_pronunciation: Lucky Rohman
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: 
@@ -46,8 +46,10 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Analytics
+  - Machine Learning
+  - Cyber Security
+  - Physical and Spiritual Fitness
 
 education:
   - area: PhD Artificial Intelligence
