@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Mahasiswa
+title: Lucky Nurrohman Firdaus
 
 # Name pronunciation (optional)
 name_pronunciation: Lucky Rohman
 
 # Full name (for SEO)
-first_name: Lucky
-last_name: Rohman
+first_name: 
+last_name: 
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Front Office
+role: Software Engineering Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,20 +31,18 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:rohmanfirdaus11@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/LuckyX1143006
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/lucky_xrf/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/luckyrohman11/luckyrohman11.github.io
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://linkedin.com/in/lucky-firdaus-773a4a292/
+  - icon: brands/threads
+    url: https://www.threads.net/@lucky_xrf?xmt=AQGzTXDnyzsHsjElP2cq5dn64cUPEK5OAb88egnQogRRHUQ
 
 interests:
   - Artificial Intelligence
