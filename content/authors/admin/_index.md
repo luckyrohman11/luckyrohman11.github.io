@@ -11,7 +11,7 @@ last_name: Rohman
 
 # Status emoji
 status:
-  icon: +
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Front Office
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
