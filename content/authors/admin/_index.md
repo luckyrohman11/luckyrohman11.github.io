@@ -42,7 +42,7 @@ profiles:
   - icon: brands/linkedin
     url: https://linkedin.com/in/lucky-firdaus-773a4a292/
   - icon: brands/threads
-    url: https://www.threads.net/@lucky_xrf?xmt=AQGzTXDnyzsHsjElP2cq5dn64cUPEK5OAb88egnQogRRHUQ
+    url: https://www.threads.net/@lucky_xrf?xmt=AQGzTXDnyzsHsjElP2cq5dn64cUPEK5OAb88egnQogRRHU
 
 interests:
   - Artificial Intelligence
