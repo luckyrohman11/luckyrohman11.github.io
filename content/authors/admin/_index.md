@@ -3,7 +3,7 @@
 title: Lucky Nurrohman Firdaus
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: Lucky
 
 # Full name (for SEO)
 first_name: 
