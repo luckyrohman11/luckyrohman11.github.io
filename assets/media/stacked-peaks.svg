@@ -1,33 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="512" viewBox="0 0 1024 512">
   <defs>
     <!-- Gradien untuk latar belakang -->
-    <radialGradient id="bgGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
-      <stop offset="0%" stop-color="#1a1a2e" />
-      <stop offset="100%" stop-color="#111" />
-    </radialGradient>
-    <!-- Filter glow untuk efek neon -->
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1b2a" />
+      <stop offset="100%" stop-color="#1b263b" />
+    </linearGradient>
+    <!-- Filter glow untuk efek garis -->
     <filter id="neon">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feGaussianBlur stdDeviation="2" result="blur" />
       <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
   </defs>
   
   <!-- Latar belakang -->
-  <rect width="512" height="512" fill="url(#bgGradient)" />
-
-  <!-- Mata neon -->
-  <g filter="url(#neon)" stroke="red" stroke-width="2" stroke-linecap="round">
-    <line x1="200" y1="200" x2="250" y2="250" />
-    <line x1="250" y1="200" x2="200" y2="250" />
-    <line x1="300" y1="200" x2="350" y2="250" />
-    <line x1="350" y1="200" x2="300" y2="250" />
+  <rect width="1024" height="512" fill="url(#bgGradient)" />
+  
+  <!-- Pola prisma segitiga -->
+  <g stroke="gold" stroke-width="1" fill="none" filter="url(#neon)">
+    <polygon points="300,200 400,150 350,300" />
+    <polygon points="500,250 600,200 550,350" />
+    <polygon points="700,100 800,50 750,200" />
+    <polygon points="800,300 900,250 850,400" />
   </g>
-
-  <!-- Lidah neon -->
-  <g filter="url(#neon)">
-    <path d="M250 300 Q260 320, 270 300 T290 300" fill="none" stroke="pink" stroke-width="3" />
+  
+  <!-- Efek bintang kecil -->
+  <g fill="gold">
+    <circle cx="350" cy="200" r="2" />
+    <circle cx="550" cy="250" r="2" />
+    <circle cx="750" cy="100" r="2" />
+    <circle cx="850" cy="300" r="2" />
   </g>
 </svg>
