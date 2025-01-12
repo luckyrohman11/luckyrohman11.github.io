@@ -52,7 +52,7 @@ interests:
   - Physical and Spiritual Fitness
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: Software Engineering
     institution: Institut Teknologi Statistika dan Bisnis Muhamammadiyah Semarang
     date_start: 2022
     date_end: 2026
@@ -84,7 +84,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
+  - position: Gas station attendant
     company_name: GenCoin
     company_url: ''
     company_logo: ''
