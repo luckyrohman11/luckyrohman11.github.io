@@ -1,36 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="512" viewBox="0 0 1024 512">
   <defs>
     <!-- Gradien untuk latar belakang -->
-    <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0d1b2a" />
       <stop offset="100%" stop-color="#1b263b" />
     </linearGradient>
-    <!-- Filter glow untuk efek garis -->
-    <filter id="neon">
-      <feGaussianBlur stdDeviation="2" result="blur" />
+
+    <!-- Filter untuk efek glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
   </defs>
-  
+
   <!-- Latar belakang -->
-  <rect width="1024" height="512" fill="url(#bgGradient)" />
-  
-  <!-- Pola prisma segitiga -->
-  <g stroke="gold" stroke-width="1" fill="none" filter="url(#neon)">
+  <rect width="1024" height="512" fill="url(#background)" />
+
+  <!-- Prisma segitiga dengan efek garis emas -->
+  <g stroke="gold" stroke-width="2" fill="none" filter="url(#glow)">
     <polygon points="300,200 400,150 350,300" />
     <polygon points="500,250 600,200 550,350" />
     <polygon points="700,100 800,50 750,200" />
     <polygon points="800,300 900,250 850,400" />
   </g>
-  
-  <!-- Efek bintang kecil -->
+
+  <!-- Efek cahaya kecil di sekitar prisma -->
   <g fill="gold">
-    <circle cx="350" cy="200" r="2" />
-    <circle cx="550" cy="250" r="2" />
-    <circle cx="750" cy="100" r="2" />
-    <circle cx="850" cy="300" r="2" />
+    <circle cx="350" cy="200" r="3" />
+    <circle cx="550" cy="250" r="3" />
+    <circle cx="750" cy="100" r="3" />
+    <circle cx="850" cy="300" r="3" />
   </g>
 </svg>
