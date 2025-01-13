@@ -84,28 +84,49 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Gas station attendant
-    company_name: GenCoin
-    company_url: ''
+  - position: Gas Station Attendant
+    company_name: Pertamina
+    company_url: 'https://pertamina.com/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-09-07
+    date_end: 2025
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Providing excellent service to gas station visitors
+      - Providing information or promotions to customers when necessary.
+      - Maintaining the cleanliness of gas station equipment and work environment.
+      - Receiving incoming fuel supplies.
+      - Always being alert to any dangers or emergencies that may arise.
+  - position: Cutting Operator
+    company_name: PT FUKURYO INDONESIA
+    company_url: 'https://fukuryo.co.id/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-01-01
+    date_end: 2023-07-07
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Operating the cutting machine.
+      - Ensure that the cutting machine runs well and smoothly.
+      - Perform routine maintenance on the cutting machine to avoid fatal damage to the cutting machine.
+      - Monitor the production process on the cutting machine to avoid production errors.
+      - Work according to the specified production target.
+      - Check the production process, function and condition of the machine, materials to be used, and so on.
+      - Check and carry out work area cleanliness measures.
+      - position: Cutting Operator
+  - position: Shit Leader
+    company_name: Shopee Express
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-12-07
+    date_end: 2022-01-06
+    summary: |2-
+      Responsibilities include:
+      - Creating employee schedules.
+      - Briefing before work.
+      - Checking the production process.
+      - Assisting the production process.
+      -  Reporting production results.   
+     
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
