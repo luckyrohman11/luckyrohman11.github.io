@@ -89,7 +89,7 @@ work:
     company_url: 'https://pertamina.com/'
     company_logo: ''
     date_start: 2023-09-07
-    date_end: 2025
+    date_end: 2025 
     summary: |2-
       Responsibilities include:
       - Providing excellent service to gas station visitors
