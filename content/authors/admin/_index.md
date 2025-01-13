@@ -54,13 +54,11 @@ interests:
 education:
   - area: Software Engineering
     institution: Institut Teknologi Statistika dan Bisnis Muhamammadiyah Semarang
-    date_start: 2022
-    date_end: 2026
+    date_start: 2022-10-01
+    date_end: 2026-10-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      GPA: 3.5/4.0
+    
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -89,7 +87,7 @@ work:
     company_url: 'https://pertamina.com/'
     company_logo: ''
     date_start: 2023-09-07
-    date_end: 2025 
+    date_end: 2025-04-01 
     summary: |2-
       Responsibilities include:
       - Providing excellent service to gas station visitors
@@ -163,11 +161,11 @@ skills:
 
 languages:
   - name: English
+    percent: 70
+  - name: Indonesian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Java
+    percent: 85
 
 # Awards.
 #   Add/remove as many awards below as you like.
