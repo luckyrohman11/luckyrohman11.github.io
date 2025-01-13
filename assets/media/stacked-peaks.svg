@@ -1,37 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="512" viewBox="0 0 1024 512">
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="768" viewBox="0 0 1024 768">
   <defs>
     <!-- Gradien untuk latar belakang -->
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1b2a" />
-      <stop offset="100%" stop-color="#1b263b" />
-    </linearGradient>
+    <radialGradient id="bgGradient" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#1a1a1a" />
+      <stop offset="100%" stop-color="#0d0d0d" />
+    </radialGradient>
 
-    <!-- Filter untuk efek glow -->
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
+    <!-- Filter blur untuk elemen garis -->
+    <filter id="blurEffect" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1" />
     </filter>
   </defs>
 
   <!-- Latar belakang -->
-  <rect width="1024" height="512" fill="url(#background)" />
+  <rect width="1024" height="768" fill="url(#bgGradient)" />
 
-  <!-- Prisma segitiga dengan efek garis emas -->
-  <g stroke="gold" stroke-width="2" fill="none" filter="url(#glow)">
-    <polygon points="300,200 400,150 350,300" />
-    <polygon points="500,250 600,200 550,350" />
-    <polygon points="700,100 800,50 750,200" />
-    <polygon points="800,300 900,250 850,400" />
+  <!-- Gelombang besar -->
+  <path
+    d="M0,600 C200,700 400,500 600,600 C800,700 1000,500 1200,600 L1200,800 L0,800 Z"
+    fill="#131313"
+    opacity="0.7"
+  />
+  <path
+    d="M0,500 C250,400 450,600 650,500 C850,400 1050,600 1250,500 L1250,800 L0,800 Z"
+    fill="#1f1f1f"
+    opacity="0.5"
+  />
+
+  <!-- Garis kontur -->
+  <g stroke="#2a2a2a" stroke-width="1" fill="none" opacity="0.7" filter="url(#blurEffect)">
+    <path d="M100,300 Q300,400 500,300 T900,300" />
+    <path d="M150,400 Q350,500 550,400 T950,400" />
   </g>
 
-  <!-- Efek cahaya kecil di sekitar prisma -->
-  <g fill="gold">
-    <circle cx="350" cy="200" r="3" />
-    <circle cx="550" cy="250" r="3" />
-    <circle cx="750" cy="100" r="3" />
-    <circle cx="850" cy="300" r="3" />
+  <!-- Elemen geometris kecil -->
+  <g fill="none" stroke="#2a2a2a" stroke-width="1" opacity="0.6">
+    <circle cx="200" cy="200" r="10" />
+    <circle cx="800" cy="600" r="8" />
+    <polygon points="300,500 320,520 280,520" />
+    <polygon points="700,300 720,320 680,320" />
   </g>
 </svg>
