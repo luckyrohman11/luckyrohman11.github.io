@@ -52,7 +52,7 @@ interests:
   - Physical and Spiritual Fitness
 
 education:
-  - area: BS Software Engineering
+  - area: BS in Software Engineering
     institution: Institut Teknologi Statistika dan Bisnis Muhamammadiyah Semarang
     date_start: 2022-10-01
     date_end: 2026-10-01
