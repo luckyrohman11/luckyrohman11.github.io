@@ -132,10 +132,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Editing Video
         description: ''
         percent: 100
-        icon: cat
+        icon: movie clip
       - name: Photography
         description: ''
         percent: 80
