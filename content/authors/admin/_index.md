@@ -125,7 +125,7 @@ work:
       - Briefing before work.
       - Checking the production process.
       - Assisting the production process.
-      -  Reporting production results.   
+      - Reporting production results.   
      
 
 # Skills
@@ -156,7 +156,7 @@ skills:
       - name: Editing Video
         description: ''
         percent: 100
-        icon: movie clip🎥
+        icon: movie clip
       - name: Photography
         description: ''
         percent: 80
