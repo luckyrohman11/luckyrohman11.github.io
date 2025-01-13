@@ -135,7 +135,7 @@ skills:
       - name: Editing Video
         description: ''
         percent: 100
-        icon: movie clip
+        icon: movie clip🎥
       - name: Photography
         description: ''
         percent: 80
