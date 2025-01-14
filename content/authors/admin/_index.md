@@ -88,7 +88,7 @@ work:
       - Work according to the specified production target.
       - Check the production process, function and condition of the machine, materials to be used, and so on.
       - Check and carry out work area cleanliness measures.
-  - position: Shit Leader
+  - position: Shift Leader
     company_name: Shopee Express
     company_url: ''
     company_logo: ''
