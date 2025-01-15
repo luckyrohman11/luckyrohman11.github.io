@@ -1,12 +1,14 @@
 ---
-title: 'An example conference paper'
+title: 'Evaluation and Comparison of K-Nearest Neighbors Algorithm Models for Heart Failure Prediction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Lucky
-  - Robert Ford
+  - Nurul Huda S.Kom M.Kom
+  - Alya Masitha S.Kom M.Kom
+  - Deden Istiawan S.Kom M.Kom
+  - Lucky Nur Rohman Firdaus
 
 # Author notes (optional)
 author_notes:
@@ -28,7 +30,7 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Abstract−Heart failure is a disease that is one of the most crucial in the world. Researchers have used several machine learning techniques to assist health professionals in the diagnosis of heart failure. K-NN is a technique of supervised learning algorithm that has been successfully used in terms of classification. However, using the K-NN algorithm has stages in terms of data analysis. The data used must also be processed in such a way that it becomes data that is easier to analyse and that the results obtained are also more  accurate.  Data  pre-processing  involves  transforming  raw  data  into  a  format  that  is  appropriate  for  the  model.  The normalization technique is one of the techniques contained in pre-processing. This research uses two normalization techniques, namely the simple feature scale and min-max.The purpose of this study is to compare the performance of the KNN model to obtain an optimal prediction model.This study contributes to producing a heart failure prediction model based on the K-Nearest Neighbors (KNN) algorithm that can be optimized to improve the accuracy of early detection, so that it can help medical personnel in making more  appropriate  clinical  decisions. The  results  obtained  from  this  research  show  that  the  dataset  that  uses  the  min-max normalization method is better than data that is not normalized and data that uses simple feature scale normalization. The highest level of accuracy was achieved by employing the min-max normalisation technique, with a value of K=9, resulting in an accuracy rate of 85.05%.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
