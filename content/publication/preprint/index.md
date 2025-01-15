@@ -1,4 +1,4 @@
----
+
 title: "Evaluation and Comparison of K-Nearest Neighbors Algorithm Models for Heart Failure Prediction"
 authors: "Alya Masitha, Nurul Huda*, Deden Istiawan, Lucky Nur Rohman Firdaus"
 - admin
