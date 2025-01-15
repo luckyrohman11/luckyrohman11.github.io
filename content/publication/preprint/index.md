@@ -1,7 +1,10 @@
-
+---
 title: "Evaluation and Comparison of K-Nearest Neighbors Algorithm Models for Heart Failure Prediction"
-authors: "Alya Masitha, Nurul Huda*, Deden Istiawan, Lucky Nur Rohman Firdaus"
-- admin
+authors: 
+- Alya Masitha.S.Kom.,M.Kom.
+- Nurul Huda.S.Kom.,M.Kom.
+- Deden Istiawan.S.Kom.,M.Kom.
+- Lucky Nur Rohman Firdaus.
 date: "Volume6, No 3, Desember 2024Page: 1332−1340"
 doi: ""
 
