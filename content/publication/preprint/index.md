@@ -3,7 +3,7 @@ title: "Evaluation and Comparison of K-Nearest Neighbors Algorithm Models for He
 authors: Alya Masitha, Nurul Huda, Deden Istiawan, Lucky Nur Rohman Firdaus
 - admin
 date: "Volume6, No 3, Desember 2024Page: 1332−1340"
-doi: "https://doi.org/10.47065/bits.v6i3.5925"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "Desember 2024Page: 1332−1340"
