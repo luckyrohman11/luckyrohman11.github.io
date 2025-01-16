@@ -78,4 +78,3 @@ projects:
 slides: example
 ---
 
-(https://docs.hugoblox.com/content/writing-markdown-latex/).
