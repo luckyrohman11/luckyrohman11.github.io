@@ -46,6 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+url : 'https://ejurnal.seminar-id.com/index.php/bits/article/view/5925'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
