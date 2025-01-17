@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: '5925-Article%20Text-24781-1-10-20241203%20(1)'
 url_code: ''
 url_dataset: ''
 url_poster: ''
