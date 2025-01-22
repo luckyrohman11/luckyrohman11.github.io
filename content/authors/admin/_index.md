@@ -143,7 +143,7 @@ languages:
   - name: Indonesian
     percent: 100
   - name: Java
-    percent: 90
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
