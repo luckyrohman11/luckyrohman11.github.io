@@ -152,21 +152,25 @@ languages:
 awards:
   - title: Ethical Hacking
     url: https://www.netacad.com/courses/ethical-hacker?courseLang=en-US
-    date: '2024-04-01'
+    date: '2024-09-01'
     awarder: Cisco
     icon: coursera
     summary: |
       I learned the basic concepts of cybersecurity which are cyber threats in every corner of cyberspace. Cybersecurity resilience in the modern world cannot be just an add-on, but a necessity.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+  - title: Data Analysts
+    url: https://www.revou.co/data-analytics
+    date: '2024-04-01'
+    awarder: Revou
+    icon: revou
     summary: |
       Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      - Fundamentals of Data Analytics
+      - Understanding Business Problem
+      - Preparing and Exploring Data
+      - Analyzing Data to Answer Question
+      - Python Programing for Data Analysis
+      - Fundamentals of Visualization
+      - Data Visualization with Tableau
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
