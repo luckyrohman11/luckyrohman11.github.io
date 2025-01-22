@@ -12,7 +12,7 @@ image:
   caption: ''
 ---
 
-
+Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 
 ## Ideation
 
