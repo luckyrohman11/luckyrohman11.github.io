@@ -41,6 +41,7 @@ profiles:
     url: https://github.com/luckyrohman11/luckyrohman11.github.io
   - icon: brands/linkedin
     url: https://linkedin.com/in/lucky-firdaus-773a4a292/
+  
 
 interests:
   - Artificial Intelligence
