@@ -1,7 +1,7 @@
 ---
 title: ✅ Utilization of digital technology in shaping the character of basic education
-summary: 
-date: 2025-07-11
+summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+date: 2023-07-11
 authors:
   - Lucky Nurrohman Firdaus
   - Rahmanda Isynia
