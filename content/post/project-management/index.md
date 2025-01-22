@@ -1,7 +1,7 @@
 ---
 title: ✅ Utilization of digital technology in shaping the character of basic education
-summary:  The integration of digital technology in basic education has become a pivotal tool for character development among students. By utilizing various digital platforms, tools, and resources, educators can foster essential values such as discipline, responsibility, creativity, and collaboration.
-date: 2025-07-11
+summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+date: 2023-10-23
 authors:
   - Lucky Nurrohman Firdaus
   - Rahmanda Isynia
@@ -9,7 +9,7 @@ tags:
   - Hugo Blox
   - Markdown
 image:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
