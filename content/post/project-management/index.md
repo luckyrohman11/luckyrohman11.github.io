@@ -1,9 +1,10 @@
 ---
-title: ✅ Manage your projects
+title: ✅ Utilization of digital technology in shaping the character of basic education
 summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 date: 2023-10-23
 authors:
-  - admin
+  - Lucky Nurrohman Firdaus
+  - Rahmanda Isynia
 tags:
   - Hugo Blox
   - Markdown
