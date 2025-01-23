@@ -160,7 +160,6 @@ awards:
     url: https://www.revou.co/data-analytics
     date: '2024-04-01'
     awarder: Revou
-    icon: revou
     summary: |
       Learned:
       - Fundamentals of Data Analytics
