@@ -171,7 +171,7 @@ awards:
       - Data Visualization with Tableau
   - title: 'Machine learning & AI for Beginner'
     url: https://academy.dqlab.id/bootcamp
-    certificate_url: https://drive.google.com/drive/u/0/my-drive
+    certificate_url: https://drive.google.com/file/d/1KdNW-AIzxsJwODyxrbJiDcj3hUYhOZ4e/view?usp=sharing
     date: '2023-01-21'
     awarder: DQLAB
     icon: datacamp
